@@ -1,0 +1,65 @@
+    body {
+    background-color: #efeee7;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+  h1 {
+      background-color: #333333;
+      color: #eee;
+      font-size: 28px;
+      text-align: center;
+      margin: 0;
+      padding-top: 5px;
+      padding-bottom: 25px;
+      height: 10px;
+}
+
+  h2 {text-align: left;
+      font-size: 24px;
+      margin-left: 20px; 
+      padding-left: 25px;
+      margin-left: auto;
+}
+
+  .container {
+      width: 1024px;
+      margin: auto;
+}
+
+    #main-bio,
+    #contact-info,
+    #bio-image {
+    float: left;
+    background-color: #eee;
+    font-size: 15px;
+}
+
+    #main-bio {
+    width: 70%;
+    text-align: center;
+}
+
+    #contact-info {
+   
+    padding-left: 25px;    
+    width: 30%;
+}
+
+    #bio-image {
+    width:200px;
+    height: 200px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 50px;
+
+}
+
+    ul {
+    background-color:#eee;
+    height:179px;
+    margin-right: 5px;
+}
+
